@@ -1,5 +1,4 @@
 ﻿# Jazz-Improvisation
 
  
-### Colab Token
-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
+
